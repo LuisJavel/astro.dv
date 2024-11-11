@@ -1,5 +1,5 @@
 ---
-title: Prendiendo-git
+title: Prendiendo-git con Masaquiza
 author: Luis Masaquiza
 img: patron7.jpeg
 readtime: 200
