@@ -1,0 +1,17 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { getCollection } from 'astro:content';
+
+const books = await getCollection('books')
+console.log(books)
+
+
+books[0].
+---
+
+<Layout title="Welcome to Astro.">
+	<main>
+		<h1 class="text-center text-7xl font-extrabold">Paños <span class="block">colore</span></h1>
+	</main>
+</Layout>
+
